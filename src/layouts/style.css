@@ -1,0 +1,71 @@
+
+.container__start .btn__start{
+    min-height: 40px;
+    align-items: center;
+    color: #fff;
+    padding: 5px 15px 5px 15px;
+    font-size: 0.875rem;
+    border: 1px solid #e17055;
+    border-radius: 20px;
+    background : #e17055;
+    transform: translate(-164px,27px);
+}
+.container__start .number__question{
+    height: 120px;
+    width: auto;
+}
+.container__start .question__content{
+    transform: translateY(-40px);
+    width: 800px;
+}
+.container__start .btn__option{
+    color: white;
+    border: 1px solid snow;
+    border-radius: 50px;
+    width: 600px;
+    max-width: 600px;
+    max-height: 50px;
+    margin: 5px 0px;
+}
+.container__start .option__choose{
+    border: 2px solid #e17055;
+    color: #e17055;
+}
+.container__start .button__content {
+    width: 100%;
+    height: 100%;
+    text-align: left ;
+    display: inline-flex ;
+    justify-content:  space-between ;
+    direction: row ;
+    align-items: center ;
+}
+.container__start .btn__next{
+    color: white;
+    border: 1px solid snow;
+    border-radius: 50px;
+    width: 400px;
+    max-width: 400px;
+    max-height: 50px;
+    margin: 25px 0px;
+    background-color: gray;
+
+}
+.container__start .btn__next:hover{
+    background-color: #e17055;
+}
+.container__start .btn__next_click{
+    background-color: #e17055;
+    color: white;
+}
+.container__start .btn__restart{
+    color: white;
+    border: 1px solid snow;
+    border-radius: 50px;
+    padding: 10px 30px;
+    background-color: #e17055;
+    margin: 20px 20px;
+}
+.container__start .btn__restart:hover{
+    background-color: #e17055;
+}
